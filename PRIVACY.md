@@ -45,9 +45,3 @@
 
 <h2>Contact</h2>
 <p>If you have any questions about this privacy policy or about WikiLite, email <strong><a href="mailto:plantsgrownorth@gmail.com">plantsgrownorth@gmail.com</a></strong>.</p>
-
-<h2>Open Source</h2>
-<p>WikiLite's full source code is available on GitHub. The published Chrome Web Store package contains exactly the code in the repository: no minification, no obfuscation, nothing hidden.</p>
-
-</body>
-</html>
