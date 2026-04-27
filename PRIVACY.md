@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WikiLite Privacy Policy</title>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    max-width: 720px;
-    margin: 2rem auto;
-    padding: 0 1.5rem;
-    line-height: 1.6;
-    color: #222;
-  }
-  h1 { font-size: 2rem; margin-bottom: 0.25rem; }
-  h2 { font-size: 1.25rem; margin-top: 2rem; }
-  .updated { color: #666; font-style: italic; margin-top: 0; }
-  code {
-    background: #f4f4f4;
-    padding: 0.1em 0.35em;
-    border-radius: 3px;
-    font-size: 0.95em;
-  }
-  ul { padding-left: 1.5rem; }
-  li { margin-bottom: 0.5rem; }
-  a { color: #2a5db0; }
-  hr { border: none; border-top: 1px solid #ddd; margin: 2rem 0; }
-</style>
-</head>
-<body>
-
 <h1>WikiLite Privacy Policy</h1>
 <p class="updated">Last updated: April 26, 2026</p>
 
